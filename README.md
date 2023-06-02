@@ -1,1 +1,1 @@
-# Pro_Class_176_SIMPLIFYING_JavaScript-BASICS-OF_jQuery
+# PRO-C176-Boilerplate-Student
